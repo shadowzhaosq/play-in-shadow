@@ -1,0 +1,1 @@
+web: target/universal/stage/bin/play-in-shadow -Dhttp.port=${PORT}
