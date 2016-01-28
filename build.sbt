@@ -1,4 +1,4 @@
-name := """play-java"""
+name := """play-in-shadow"""
 
 version := "1.0-SNAPSHOT"
 
